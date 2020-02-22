@@ -22,10 +22,16 @@ Python3 基于 Flask 框架搭建个人博客
 
 # 安装步骤
 1. 安装virtualenv
-```python
+```bash
 $ sudo apt-get update
 $ sudo apt-get install python-virtualenv
 ```
-2. 安装依赖的python模块
+2. 创建virtualenv环境
+```bash
+$ virtualenv blog
+$ cd blog
+$ source bin/activate
+```
+3. 安装依赖的python模块
 
 
