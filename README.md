@@ -16,6 +16,6 @@ Python3 基于 Flask 框架搭建个人博客
 
 # 参考文档
 本项目核心代码主要为 Flask 框架开发，参考下面的文档：
-1. Flask 中文文档
-2. Flask 大型教程项目
-3. 快速实现Flask博客
+1. [Flask 中文文档](http://dormousehole.readthedocs.org/en/latest/)
+2. [Flask 大型教程项目](http://www.pythondoc.com/flask-mega-tutorial/index.html)
+3. [快速实现Flask博客](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
