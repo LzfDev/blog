@@ -19,3 +19,13 @@ Python3 基于 Flask 框架搭建个人博客
 1. [Flask 中文文档](http://dormousehole.readthedocs.org/en/latest/)
 2. [Flask 大型教程项目](http://www.pythondoc.com/flask-mega-tutorial/index.html)
 3. [快速实现Flask博客](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
+
+# 安装步骤
+1. 安装virtualenv
+```python
+$ sudo apt-get update
+$ sudo apt-get install python-virtualenv
+```
+2. 安装依赖的python模块
+
+
