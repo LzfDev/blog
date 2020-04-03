@@ -6,7 +6,7 @@
 
 {% block extra_header %}
   {% if session.logged_in %}
-    <li><a href="{{ url_for('edit', slug=entry.slug) }}">Edit entry</a></li>
+    <li><a href="{{ url_for('edit', slug=entry.slug) }}">编辑文章</a></li>
   {% endif %}
 {% endblock %}
 
